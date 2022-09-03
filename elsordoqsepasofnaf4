@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>el sordo q se paso fnaf4</title>
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color:  #151719;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.waviy {
+  position: relative;
+  -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0,0,0,.2));
+  font-size: 60px;
+}
+.waviy span {
+  font-family: 'Alfa Slab One', cursive;
+  position: relative;
+  display: inline-block;
+  color: #fff;
+  text-transform: uppercase;
+  animation: waviy 1s infinite;
+  animation-delay: calc(.1s * var(--i));
+  
+}
+@keyframes waviy {
+  0%,40%,100% {
+    transform: translateY(0)
+  }
+  20% {
+    transform: translateY(-20px)
+  }
+}
+	</style>
+</head>
+<body>
+	<body>
+ <div class="waviy">
+   <span style="--i:1">E</span>
+   <span style="--i:2">L</span>
+   <span style="--i:3"> </span>
+   <span style="--i:4">S</span>
+   <span style="--i:5">O</span>
+   <span style="--i:6">R</span>
+   <span style="--i:7">D</span>
+   <span style="--i:8">O</span>
+   <span style="--i:9"> </span>
+   <span style="--i:10">Q</span>
+   <span style="--i:11">U</span>
+   <span style="--i:12">E</span>
+   <span style="--i:13"> </span>
+   <span style="--i:14">S</span>
+   <span style="--i:15">E</span>
+   <span style="--i:16"> </span>
+   <span style="--i:17">P</span>
+   <span style="--i:18">A</span>
+   <span style="--i:19">S</span>
+   <span style="--i:20">O</span>
+   <span style="--i:21"> </span>
+   <span style="--i:22">F</span>
+   <span style="--i:23">N</span>
+   <span style="--i:24">A</span>
+   <span style="--i:25">F</span>
+   <span style="--i:26">4</span>
+
+
+  </div>
+</body>
+
+</body>
+</html>
